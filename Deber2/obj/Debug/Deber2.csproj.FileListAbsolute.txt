@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Deber2\Deber2\bin\Debug\Deber2.exe.config
+C:\Users\HP\source\repos\Deber2\Deber2\bin\Debug\Deber2.exe
+C:\Users\HP\source\repos\Deber2\Deber2\bin\Debug\Deber2.pdb
+C:\Users\HP\source\repos\Deber2\Deber2\obj\Debug\Deber2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Deber2\Deber2\obj\Debug\Deber2.Form1.resources
+C:\Users\HP\source\repos\Deber2\Deber2\obj\Debug\Deber2.Properties.Resources.resources
+C:\Users\HP\source\repos\Deber2\Deber2\obj\Debug\Deber2.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Deber2\Deber2\obj\Debug\Deber2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Deber2\Deber2\obj\Debug\Deber2.exe
+C:\Users\HP\source\repos\Deber2\Deber2\obj\Debug\Deber2.pdb
